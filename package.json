@@ -1,9 +1,9 @@
 {
     "name": "jonaskohl.agate-theme",
     "title": "Agate Theme",
-    "description": "Based on the Agate theme by Agate by Taufik Nurrohman <https://github.com/tovic>",
+    "description": "Based on the Agate theme by Taufik Nurrohman <https://github.com/tovic>",
     "homepage": "https://github.com/jonaskohl/brackets-agate-theme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Jonas Kohl (https://jonaskohl.github.io/)",
     "license": "MIT",
     "theme": {
@@ -11,5 +11,5 @@
         "dark": true,
         "addModeClass": true
     },
-    "keywords": ["theme"]
+    "keywords": ["theme", "agate"]
 }
