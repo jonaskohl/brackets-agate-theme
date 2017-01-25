@@ -1,5 +1,5 @@
 # Agate theme for Brackets
-Agate Theme for Brackets [http://brackets.io/](http://brackets.io/), based on the Agate theme by Taufik Nurrohman [https://github.com/tovic](https://github.com/tovic)
+Agate Theme for Brackets <http://brackets.io/>, based on the Agate theme for highlight.js <http://highlightjs.org/> by Taufik Nurrohman <@tovic>
 
 ## Installation
 Go to the Brackets Extension Manager, go to the _Themes_ tab and search for _Agate Theme_. Click install.  
